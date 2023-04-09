@@ -13,7 +13,7 @@ def mensagem():
     message = tk.Label(root,text='Te amo <3')
     message.place(x=70, y=120, relx=0, rely=0)
 
-pergunta = tk.Label(root, text='Topa sair cmg?')
+pergunta = tk.Label(root, text='Aceita Namorar Cmg?')
 pergunta.pack(anchor='n', pady=20)
 
 nao = tk.Button(root, text='Não')
