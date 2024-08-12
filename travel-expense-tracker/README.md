@@ -34,7 +34,7 @@ python main.py
 ## Video Walkthrough
 *Please note that when this video was recorded a different currencyAPI was used that had a larger selection of countries and more efficient currency conversion capabilities. However, this api is no longer free and therefore a more limited option is currently implemented.*
 
-https://github.com/cdominitz/travel-expense-tracker/assets/107890151/bbf491d5-4df9-4c15-bf9a-a73bfa4a4db6
+
 
 
 
